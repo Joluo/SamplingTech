@@ -1,10 +1,13 @@
 # SamplingTech
 
   Monte Carlo Sampling Method
+  
     1. Inverse Sampling
     2. Rejective Sampling
     3. Importance Sampling
+    
   MCMC（Markov Chain Monte Carlo） Sampling
+  
     1. Metropolis-Hastings Sampling
     2. Gibbs Sampling
     
